@@ -1,0 +1,57 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
+<style>
+  .thin-black-border {
+      border-color: black;
+      border-width: 3px;
+      border-style: solid;
+  }
+  
+  p{
+   font-size: 30px;
+    color:yellow;}
+  
+  h4{
+   font-size:18px;
+   font-style:bold;   
+   text-indent:600px;
+   
+  }
+  
+   .gray-background {
+      background-color: gray;
+  }
+</style>
+<div class="container-fluid gray-background">
+
+  <h1 class="text-center">George Washington Carver</h1>
+  <center><img class="thin-black-border" alt="picture of George Washington Carver" src="http://www.msad40.org/~library-hazelton/images/GWCarverPhotos/gwc_240.jpg">
+  
+
+  <h2> George Washington Carver (1860s–January 5 1943), was an American botanist and inventor. The exact day and year of his birth are unknown; he was born into slavery in Missouri, either in 1861, or January 1864.Carver's reputation is based on his research into and promotion of alternative crops to cotton, such as peanuts and sweet potatoes, which also aided nutrition for farm families. He wanted poor farmers to grow alternative crops both as a source of their own food and as a source of other products to improve their quality of life. The most popular of his 44 practical bulletins for farmers contained 105 food recipes using peanuts. He spent years developing and promoting numerous products made from peanuts; none were commercially successful. He was also a leader in promoting environmentalism. He received numerous honors for his work, including the Spingarn Medal of the NAACP.</h2>
+    <h3 class="<text-center"><em>Biographical information</em></h3>
+</center>
+  <h4>
+    <li>1864 George Washington Carver is born in Diamond Grove, Missouri.</li>
+    <li>1890 Enrolls in Simpson College in Iowa.</li>
+    <li>1891 Transfers to Iowa State College of Agriculture.</li>
+    <li>1894 Earns his Bachelor's degree.</li>
+    <li>1896 Earns his Master of Agriculture Degree at Iowa State</li>
+    <li>1897 Named director of the Agricultural Experiment Station at Tuskegee Institute. </li>
+    <li>1906 Creates the Jessup Agricultural Wagon. </li>
+    <li>1916 Named a fellow for the London Royal Society for the Encouragement of the Arts. </li>
+    <li>1921 Testifies before the U.S. House Ways and Means Committee.</li>
+    <li>1923 Receives the Spingarn Medal for Distinguished Service to Science.</li>
+    <li>1928 Receives an honorary Doctorate of Science from Simpson College.</li>
+    <li>1935 Appointed a collaborator with the United States Department of Agriculture.</li>
+    <li>1940-1941 Established the George Washington Carver Research Foundation at Tuskegee. </li>
+    <li>July 14, 1943 The George Washington Carver National Monument is established at his birthplace in Missouri. </li>
+    <li>January 5, 1943 Died.</li>
+    
+  </h4>
+  <p class="text-center">"Education is the key to unlock the golden door of freedom."-George Washington Carver</p>
+  
+  <p class="text-center"><a href="https://en.wikipedia.org/wiki/George_Washington_Carver">Click here for more information on George Washington Carver 
+    </a> </p>
+  <h5 class="text-center ">Written and coded by Daniel Hackney</h5>
+    
+</div>
